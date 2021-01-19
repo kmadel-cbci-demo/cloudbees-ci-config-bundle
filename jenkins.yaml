@@ -1,5 +1,5 @@
 jenkins:
-  systemMessage: 'Jenkins configured using CloudBees CI CasC - v1'
+  systemMessage: "Jenkins configured using CloudBees CI CasC - v2 - <a href='https://github.com/kmadel-cbci-demo/cloudbees-ci-config-bundle'>CasC Repo</a>"
 unclassified:
   hibernationConfiguration:
     activities:
